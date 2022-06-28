@@ -1,6 +1,6 @@
 <?php
 
-require_once('employe.php');
+// require_once('employe.php');
 
 
 class Director extends Employe
