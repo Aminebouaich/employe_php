@@ -4,7 +4,7 @@ class Employe {
 	private $lastName;
     private $date;
     private $poste;
-    protected $salaire; 
+    prote $salaire; 
     private $service;
     private $agency;
     private $children;
